@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+// ConsoleApplication1.cpp : Este archivo contiene la funciÃ³n "main". La ejecuciÃ³n del programa comienza y termina ahÃ­.
 //
 
 #include <iostream>
@@ -164,7 +164,7 @@ int main()
             }
         }
 
-       //daño al enemigo
+       //daÃ±o al enemigo
        // enemyHP = enemyHP - heroDamage;
         enemyDMG = rand() % 100 + 1;
         srand(time(NULL));
